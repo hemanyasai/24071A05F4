@@ -2,6 +2,7 @@
  #Set 6 :
  # Question 1:
  <img width="2268" height="1642" alt="image" src="https://github.com/user-attachments/assets/a071e032-35b5-4bc6-9f6b-6226b013f40d" />
+ <img width="1736" height="1511" alt="image" src="https://github.com/user-attachments/assets/4bd9ef95-75c9-4cd0-b5d9-5977f2d24db5" />
  <img width="2205" height="1614" alt="image" src="https://github.com/user-attachments/assets/0e5ae7ac-c3ac-408f-978f-955c70b2107b" />
  <img width="2173" height="1599" alt="image" src="https://github.com/user-attachments/assets/fba9c621-c880-472f-9cfb-5872b135ded0" />
  <img width="1669" height="1515" alt="image" src="https://github.com/user-attachments/assets/4d5604d1-0a9f-4ea0-8968-97ae1e4d6eaf" />
